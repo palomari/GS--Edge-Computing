@@ -7,7 +7,7 @@ O projeto aborda a necessidade de centralizar e organizar as informações de sa
 -  Visão Geral da Solução Proposta:
 A solução proposta é um sistema que armazena de forma segura e acessível todos os exames médicos realizados por uma pessoa. Além disso, o sistema mantém informações pessoais relevantes do paciente. Dessa forma, quando o paciente visita um médico, este tem acesso fácil a um histórico abrangente de exames e dados de saúde, melhorando a qualidade do atendimento e permitindo uma análise mais completa.
 
--  Instruções para Configurar e Executar a Aplicação:
+  Instruções para Configurar e Executar a Aplicação:
    1- Certifique-se de ter o ambiente de execução apropriado para o código fornecido, que parece estar usando o ambiente Wokwi com um ESP32 e um sensor DHT22.
    2- Faça as conexões físicas conforme descrito no código.
    3-Configure as dependências necessárias, se houver, para garantir o funcionamento correto do sistema.
